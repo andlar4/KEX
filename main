@@ -1,0 +1,4 @@
+public class main(string[] args) {
+  System.out.println("Hej");
+} 
+  
