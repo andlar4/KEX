@@ -1,1 +1,1 @@
-# KEX
+# Kandidatexamensarbete
